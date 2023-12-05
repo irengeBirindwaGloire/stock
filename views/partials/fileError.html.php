@@ -1,0 +1,1 @@
+<p>Page not found {<?= @$_GET['task'] ?>} cliquer <a href="index.php?controller=">ici</a> pour retourner</p>
